@@ -1,0 +1,30 @@
+#myBox {
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Added for horizontal centering */
+    text-align: center;
+    border-radius: 25px; /* Rounded corners */
+    margin: 20px auto; /* Centered on page horizontally */
+    
+}
+
+
+
+#myButton {
+    font-size: 3rem;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 25px;
+    background-color: #53dbf3; /* Nice green */
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    display: block;
+    margin: 0 auto; /* Center button horizontally */
+}
+
+

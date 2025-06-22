@@ -1,0 +1,22 @@
+/* style.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#myBox {
+    font-size: 4rem;
+    padding: 40px;
+    background-color: yellow;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+

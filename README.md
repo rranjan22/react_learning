@@ -1,1 +1,1 @@
-"# react_learning" 
+"# javascript_learning" 
